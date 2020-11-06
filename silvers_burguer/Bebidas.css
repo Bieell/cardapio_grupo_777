@@ -1,0 +1,55 @@
+#items{
+    position:relative;
+    float: right;
+    align-items: center;
+    height: 1000px;
+    width: 50%;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #A1A19F;
+    
+}
+
+#lanches{
+    background-color: red;
+    border: 10px solid darkred;   
+}
+
+#bebidas{
+    background-color: red;
+    border: 10px solid darkred;
+}
+
+#combos{
+    background-color: red;
+    border: 10px solid darkred;
+}
+
+#cervejas{
+    background-color: red;
+    border: 10px solid darkred;
+    
+
+}
+#porcoes{
+    background-color: red;
+    border: 10px solid darkred;
+    
+
+}
+#sobremesas{
+    background-color: red;
+    border: 10px solid darkred;
+}
+
+#produtos {
+    
+    position:relative;
+    float: left;
+    justify-content: right;
+    display: flex;
+    width: 50%;
+    height: 1000px;
+    background-color: #141414;
+    
+}
